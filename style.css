@@ -1,0 +1,15 @@
+.div{
+    width: 130px;
+    height: 130px;
+    margin: 20px;
+    border: 1px solid white;
+    background-size: cover;
+    background-position: center;
+    outline: 1px solid black;
+}
+.sekil{
+    background-image: url(img/img1.jpeg);
+}
+.sekil2{
+    background-image: url(img/img2.jpeg);
+}
